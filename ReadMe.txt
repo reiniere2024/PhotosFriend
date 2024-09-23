@@ -13,7 +13,7 @@ With PhotosFriend you can organize all your photos. First make all categories yo
 to use for your archive and then load all photos into your archive. Folders and photos
 can be (re)named viewed sized rotated and reformatted and kept forever.
 
-When you open the solution in Visual Studio then don't forget to move the maps xml,log 
+When you open the solution in Visual Studio 2008 then don't forget to move the maps xml,log 
 and picts to the bin/debug directory when you want to run the code.
 
 Good luck,

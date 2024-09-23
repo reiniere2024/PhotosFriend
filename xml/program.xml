@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <PROGRAM>
+    <DRIVE>C:</DRIVE>
+    <DIR>C:\PhotosFriend</DIR>
+    <PHOTOMAP>PhotoStore</PHOTOMAP>
+    <FORMAT>JPG</FORMAT>
+    <FTP>Fotos</FTP>
+    <ARH>4</ARH>
+    <ARW>3</ARW>
+    <SRH>5</SRH>
+    <SRW>4</SRW>
+  </PROGRAM>
+</NewDataSet>

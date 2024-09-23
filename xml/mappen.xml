@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <MAP>Animals</MAP>
+  <MAP>Family</MAP>
+  <MAP>Parties</MAP>
+  <MAP>Birth</MAP>
+  <MAP>AtHome</MAP>
+  <MAP>Trips</MAP>
+  <MAP>Holidays</MAP>
+  <MAP>Birthdays</MAP>
+  <MAP>Friends</MAP>
+  <MAP>Walks</MAP>
+  <MAP>Work</MAP>
+</NewDataSet>
